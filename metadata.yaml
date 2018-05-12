@@ -1,0 +1,25 @@
+_repo: '---------------13---------------------------_29015'
+_version: 0.1.0
+alternative_title: "The New Woman\r\nDrama in Four Acts"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parren, Callirhoe
+    alias: Παρρέν, Καλλιρρόη
+    birthdate: 1859
+    deathdate: 1940
+    gutenberg_agent_id: '33642'
+    url: http://www.gutenberg.org/2009/agents/33642
+description: ''
+gutenberg_issued: '2009-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29015'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: "Η νέα γυναίκα\r\nΔράμα εις πράξεις τέσσαρας"
+url: http://www.gutenberg.org/ebooks/29015
